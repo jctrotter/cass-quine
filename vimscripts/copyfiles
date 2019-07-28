@@ -1,0 +1,3 @@
+:let g:file="./quine.py"
+:badd quine.py
+:r file
